@@ -1,0 +1,9 @@
+img{
+    border-radius: 30px;
+    height: 200px;
+    border-style: groove;
+    border-color: blue;
+}
+h3{
+    background-color: rgba(0, 255, 255, 0.26);
+}
