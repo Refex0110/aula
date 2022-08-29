@@ -4,6 +4,9 @@ img{
     border-style: groove;
     border-color: blue;
 }
-h3{
-    background-color: rgba(0, 255, 255, 0.26);
+body{
+    background-image: url(school.jpg);
+}
+div{
+    flex: auto;
 }
