@@ -1,0 +1,14 @@
+img{
+    border-radius: 30px;
+    height: 200px;
+    border-style: groove;
+    border-color: blue;
+}
+body{
+    background-image: url(school.jpg);
+    margin: 100px;
+}
+div{
+    flex: auto;
+}
+
